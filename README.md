@@ -1,0 +1,2 @@
+# spring_hw1_MovieTheaterManager
+Task description:   Create Spring application with the following services and logic using either XML or Annotation configuration. Create domain objects as needed. Create DAO classes for storing data in simple static maps (later, they will be replaced for storing data in DB).  Application for managing a movie theater. Allows for admins to enter events, view purchased tickets. Allows for users to register, view events with air dates and times, get ticket price, buy tickets.
